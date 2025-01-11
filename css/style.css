@@ -77,11 +77,11 @@ body {
 }
 
 .btn:hover {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 .btn:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 .features-items-header {
