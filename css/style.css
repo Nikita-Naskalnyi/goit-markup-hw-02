@@ -65,7 +65,7 @@ body {
   color: #ffff;
 }
 
-.button {
+.btn {
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -76,15 +76,15 @@ body {
   cursor: pointer;
 }
 
-.button:hover {
+.btn:hover {
   color: #404bbf;
 }
 
-.button:focus {
+.btn:focus {
   color: #404bbf;
 }
 
-.features-header {
+.features-items-header {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -111,7 +111,7 @@ body {
   color: #2e2f42;
 }
 
-.team-list {
+.team-item {
   background-color: #fff;
 }
 
@@ -154,6 +154,10 @@ body {
 
 .footer {
   background-color: #2e2f42;
+}
+
+.footer .logo-tile {
+  color: #f4f4fd;
 }
 
 .footer-text {
